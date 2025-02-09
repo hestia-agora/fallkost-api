@@ -1,6 +1,6 @@
 # Fall Prevention Cost Calculation API
 
-This is the backend implementation for the **Fall Prevention Cost Calculation** project, built using Node.js.
+This is the backend implementation for the **fallkost-client** project, built using Node.js.
 
 ## Getting Started
 
