@@ -39,5 +39,5 @@ Contributors:
 - Mihaela Cornea
 
 ## License
-ISC
+Hestia Agora
 
